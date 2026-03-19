@@ -1,4 +1,4 @@
-# Diamond Huggie Earrings Preview
+# Diamond Earrings Preview
 
 Neutralized product preview based on a jewelry product page, with branding and pricing removed for blind feedback.
 
