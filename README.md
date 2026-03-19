@@ -1,4 +1,4 @@
-# Diamond Earrings Preview
+# Private Jewelry Preview
 
 Neutralized product preview based on a jewelry product page, with branding and pricing removed for blind feedback.
 
